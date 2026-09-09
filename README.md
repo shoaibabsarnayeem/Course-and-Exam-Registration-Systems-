@@ -1,9 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212225040408
+# Name:shoaib absar nayeem
+# Date:02/09/2026
 
 # AIM:
 To develop the Course Reservation and Exam Registration System using Star UML
@@ -23,6 +22,7 @@ To develop the Course Reservation and Exam Registration System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+<img width="1241" height="955" alt="image" src="https://github.com/user-attachments/assets/6c861720-d52c-4fc5-9bdf-066928b6dd87" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -39,13 +39,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
-
 # CLASS DIAGRAM
+<img width="1512" height="1040" alt="image" src="https://github.com/user-attachments/assets/a88d48b8-86bd-46ea-bb26-03eceb3325ea" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -62,6 +58,7 @@ Create detailed charts that…
 
 
 # COMMUNICTION DIAGRAM:
+<img width="1235" height="957" alt="image" src="https://github.com/user-attachments/assets/c4213180-e004-4d4d-a6d1-2b550ef5b28a" />
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -71,6 +68,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+<img width="1243" height="967" alt="image" src="https://github.com/user-attachments/assets/39b78bd6-69d8-431b-980f-0abfa3b8823f" />
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -78,14 +76,8 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
-
 # ACTIVITY DIAGRAM:
+<img width="1236" height="956" alt="image" src="https://github.com/user-attachments/assets/9d5644bf-28cc-4a92-a168-091f76054098" />
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -97,16 +89,12 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
-
 # SEQUENCE DIAGRAM
+<img width="1244" height="963" alt="image" src="https://github.com/user-attachments/assets/f520218c-23cc-43ad-b658-b316271bf2f9" />
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
-
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -117,11 +105,6 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
-
 
 # RESULT
 
